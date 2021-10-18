@@ -1,0 +1,7 @@
+2021-10-18 11:14:15.535  INFO 11972 --- [restartedMain] c.e.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 16.0.2 on DESKTOP-FIM8F8S with PID 11972 (C:\office\STS projects\employee-payroll\target\classes started by Nikhil Arvind in C:\office\STS projects\employee-payroll)
+2021-10-18 11:14:15.540 DEBUG 11972 --- [restartedMain] c.e.e.EmployeePayrollApplication         : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 11:14:15.541  INFO 11972 --- [restartedMain] c.e.e.EmployeePayrollApplication         : The following profiles are active: dev
+2021-10-18 11:14:22.908  WARN 11972 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-18 11:14:23.501  INFO 11972 --- [restartedMain] c.e.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 8.651 seconds (JVM running for 9.845)
+2021-10-18 11:14:23.506  INFO 11972 --- [restartedMain] c.e.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment 
+2021-10-18 11:14:23.508  INFO 11972 --- [restartedMain] c.e.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
